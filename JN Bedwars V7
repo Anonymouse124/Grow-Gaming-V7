@@ -34,7 +34,7 @@ TextLabel.Size = UDim2.new(0.170134634, 0, 0.0700389072, 0)
 
 TextLabel.Font = Enum.Font.GothamBold
 
-TextLabel.Text = "JN HH Hub"
+TextLabel.Text = "JN HH Gaming Hub"
 
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 
